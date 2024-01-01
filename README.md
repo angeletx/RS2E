@@ -1,1 +1,1 @@
-Robust Supervised Spline Embedding
+RS2E
